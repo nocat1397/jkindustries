@@ -40,7 +40,7 @@
                     </li>
                   </ul>
                   <ul class="navbar-nav ml-auto text-center" style="flex-direction: row!important; justify-content: center">
-                    <li><a href="tel:xxxxxxxxxx" class="link-style mr-2"><i class="fa fa-phone mr-1"> 9574995119</i></a></li>
+                    <li><a href="tel:xxxxxxxxxx" class="link-style mr-2"><i class="fa fa-phone mr-1"> 08048722507</i></a></li>
                     <li><a href="tel:xxxxxxxxxx" class="link-style"><i class="fab fa-facebook"></i></a></li>
                     <li><a href="tel:xxxxxxxxxx" class="link-style"><i class="fab fa-twitter mr-1"></i></a></li>
                     <li><a href="tel:xxxxxxxxxx" class="link-style"><i class="fab fa-linkedin mr-1"></i></a></li>
