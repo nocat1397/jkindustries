@@ -15,4 +15,21 @@
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <title>JK Industries</title>
+    <style>
+    .jklogo{
+        height: 100px;
+        width: 120px;
+    }
+
+     @media only screen and (max-width: 600px) {
+    .jklogo{
+        margin-right: 0px;
+        margin-left: -43px;
+        margin-top: 10px;
+        height: 50px!important;
+        width: 60px!important;
+    }
+     }
+  
+    </style>
 </head>

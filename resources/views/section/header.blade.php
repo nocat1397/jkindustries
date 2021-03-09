@@ -1,13 +1,19 @@
 <div class="header">
     <nav class="navbar navbar-expand-lg navbar-dark bg-transparent p-0 font-weight-bold">
-        <div class="container-fluid">
+        <div class="container p-4">
             <a class="navbar-brand ml-5" href="#">
-                <img src="{{url('img/logo.png')}}" height="100" width="120">
+                <img src="{{url('img/logo.png')}}" class="jklogo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-        
+           
+       <div class="cube"></div>
+       <div class="cube"></div>
+       <div class="cube"></div>
+       <div class="cube"></div>
+      <div class="cube"></div>
+  
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-auto text-center">
                 <li class="nav-item active">
